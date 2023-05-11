@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a045c74-45ad-4534-8ee2-cc4e0c9141c7" name="qa3">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="10.0.11.123" port="4050" sshConfigId="b2cb3a43-e53c-4eda-8dbc-e7746e976e6c" sshConfig="app@10.0.11.123:4050 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

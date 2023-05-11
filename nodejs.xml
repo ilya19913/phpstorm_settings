@@ -1,0 +1,16 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.19.0/bin/node" excluded="true" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v19.3.0/bin/node" excluded="true" />
+  </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker://node/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="node" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+    <interpreter node-remote-interpreter="docker-compose://[/Users/ilya/Projects/fido-admin-app/docker-compose.yml, /Users/ilya/Projects/fido-admin-app/docker-compose2.yml]:node/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="node" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/Projects/fido-admin-app/docker-compose.yml" />
+        <item value="$USER_HOME$/Projects/fido-admin-app/docker-compose2.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
+  </component>
+</application>

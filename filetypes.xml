@@ -1,0 +1,43 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="curl" type="AUTO_DETECTED" />
+      <mapping pattern="signature_62272e8580f0d" type="AUTO_DETECTED" />
+      <mapping pattern="hash-1646399519" type="AUTO_DETECTED" />
+      <mapping pattern="data622726ed330b5" type="AUTO_DETECTED" />
+      <mapping pattern="hash-1646409774" type="AUTO_DETECTED" />
+      <mapping pattern="data62272e8580f18" type="AUTO_DETECTED" />
+      <mapping pattern="signature_62272e775ea4a" type="AUTO_DETECTED" />
+      <mapping pattern="Makefile2" type="AUTO_DETECTED" />
+      <mapping pattern="hash_622626e52d7cd" type="AUTO_DETECTED" />
+      <mapping pattern="hash-1646409559" type="AUTO_DETECTED" />
+      <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="signature_622732ace0694" type="AUTO_DETECTED" />
+      <mapping pattern="hash_62261388019db" type="AUTO_DETECTED" />
+      <mapping pattern="hash" type="AUTO_DETECTED" />
+      <mapping pattern="signature" type="AUTO_DETECTED" />
+      <mapping pattern="data622735799c45f" type="AUTO_DETECTED" />
+      <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
+      <mapping pattern="hash-1646399061" type="AUTO_DETECTED" />
+      <mapping pattern="signature_62272f9d02a24" type="AUTO_DETECTED" />
+      <mapping pattern="data62272d4767f5a" type="AUTO_DETECTED" />
+      <mapping pattern="lastlog" type="AUTO_DETECTED" />
+      <mapping pattern="hash_6225e802dfa15" type="AUTO_DETECTED" />
+      <mapping pattern="hash_6225e62fb608f" type="AUTO_DETECTED" />
+      <mapping pattern="data62272f9d02a28" type="AUTO_DETECTED" />
+      <mapping pattern="hash-1646408603" type="AUTO_DETECTED" />
+      <mapping pattern="hash_62223a4bed57e" type="AUTO_DETECTED" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
+      <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="loc" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="sign" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

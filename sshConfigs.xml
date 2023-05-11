@@ -1,0 +1,13 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="51.89.234.57" id="91be40e2-7461-420b-89cb-37688fee7424" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="i.mironchikov" useOpenSSHConfig="true" />
+      <sshConfig host="10.0.11.123" id="b2cb3a43-e53c-4eda-8dbc-e7746e976e6c" keyPath="$USER_HOME$/.ssh/id_rsa" port="4050" nameFormat="DESCRIPTIVE" username="app" useOpenSSHConfig="false" />
+      <sshConfig host="141.94.137.136" id="72e398bd-ba7c-4054-92b9-199b7b4dacde" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="i.mironchikov" useOpenSSHConfig="true" />
+      <sshConfig host="135.125.3.145" id="da67f86d-8b6b-45eb-8083-17fa2dc20ed6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="i.mironchikov@135.125.3.145:22 key2" nameFormat="CUSTOM" username="i.mironchikov" useOpenSSHConfig="true">
+        <option name="customName" value="i.mironchikov@135.125.3.145:22 key2" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="51.89.217.105" id="85047614-f767-45b1-a20a-1137021599ee" port="22" nameFormat="DESCRIPTIVE" username="i.mironchikov" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
